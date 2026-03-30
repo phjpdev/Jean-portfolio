@@ -16,7 +16,7 @@
   });
 </script>
 
-<div class="h-screen w-screen bg-[#2D3748] overflow-hidden">
+<div class="h-screen w-screen overflow-hidden bg-cover bg-center bg-no-repeat" style="background-image: url('/background.png')">
   <TopBar on:shutDown on:lockScreen />
   <div class="p-4 flex flex-col items-start">
     <!-- Clock Widget -->

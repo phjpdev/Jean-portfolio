@@ -74,8 +74,6 @@
   {:else if bootState === 'locked'}
     <LockScreen on:unlock={handleUnlock} on:shutDown={handleShutDown} />
   {:else}
-    <div class="absolute inset-0 bg-gradient-to-br from-purple-900 via-blue-900 to-teal-800 opacity-80"></div>
-    
     <Desktop on:shutDown={handleShutDown} on:lockScreen={handleLockScreen} />
     
     {#each $windows as window (window.id)}
