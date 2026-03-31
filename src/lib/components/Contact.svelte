@@ -63,7 +63,7 @@
         },
         body: JSON.stringify({
           _subject: subject,
-          _to: 'johncarloskip017@gmail.com',
+          _to: 'jeanpatrick97816@gmail.com',
           name: `${firstName} ${lastName}`,
           email: email,
           service: selectedService,
@@ -93,7 +93,7 @@
       }
     } catch (error) {
       console.error('Form submission error:', error);
-      submitMessage = 'An error occurred. Please try again later or email me directly at johncarloskip017@gmail.com';
+      submitMessage = 'An error occurred. Please try again later or email me directly at jeanpatrick97816@gmail.com';
       submitMessageType = 'error';
     } finally {
       isSubmitting = false;
@@ -242,7 +242,7 @@
       <div class="mt-8 flex justify-center gap-4">
         <!-- WhatsApp -->
         <a 
-          href="https://wa.me/639773189377" 
+          href="https://wa.me/639667643587" 
           target="_blank" 
           rel="noopener noreferrer" 
           class="w-10 h-10 rounded-full bg-gray-500 hover:bg-gray-600 flex items-center justify-center transition-colors duration-200 group"

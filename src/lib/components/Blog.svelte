@@ -11,26 +11,20 @@
 
 
     const aboutMe = {
-      name: "Jean Patrick Valle Reyes",
-      title: "Python/AI Developer",
-      dateOfBirth: "January 07, 1990",
-      address: "Medicion 2C Imus Cavite, Philippines",
-      zipCode: "4103",
-      email: "johncarloskip017@gmail.com",
-      phone: "+63 977 318 9377",
-      description: `Experienced Python and Artificial Intelligence Engineer with a strong background in building scalable machine
-learning, deep learning, and automation solutions. Proven expertise in developing end-to-end AI pipelines,
-including data preprocessing, model training, optimization, and cloud deployment using TensorFlow, PyTorch, and
-scikit-learn. Skilled in designing robust backend systems with Node.js and PHP frameworks such as Express.js and
-Laravel, integrating MySQL, MongoDB, and PostgreSQL databases. Hands-on experience supporting mobile
-applications by building AI-powered APIs, backend services, and scalable infrastructures for cross-platform and
-mobile-first solutions. Adept in MLOps practices using Docker, Kubernetes, and performance optimization tools to
-deploy production-grade AI systems. Passionate about leveraging AI to deliver impactful, scalable, and mobile-
-ready technology solutions.`,
+      name: "Jean Patrick Reyes",
+      title: "AI/ML Engineer & Full-Stack Developer",
+      dateOfBirth: "",
+      address: "Dalanghita st. Brgy San Juan, Taytay, Rizal, Philippines",
+      zipCode: "",
+      email: "jeanpatrick97816@gmail.com",
+      phone: "+63 966 764 3587",
+      description: `I'm Jean, a Filipino AI/ML Engineer and Full-Stack Developer with over 8 years of experience working on production-grade AI systems, enterprise web apps, and mobile applications. I've collaborated with teams in the USA, Germany, Australia and the Philippines, helping companies build efficient, scalable, and secure digital products.
+
+I specialize in machine learning, React/Next.js, Node.js, Python Frameworks, and cloud technologies such as AWS, Azure, Cloudflare and GCP.`,
       projectsComplete: 86,
       socialLinks: {
-        twitter: "https://x.com/John50401788185",
-        facebook: "https://www.facebook.com/profile.php?id=61580879649700",
+        twitter: "https://x.com/Johncarlocos",
+        facebook: "https://www.facebook.com/profile.php?id=61583826572375",
         telegram: "https://t.me/johncarlo2741"
       }
     };
@@ -64,34 +58,29 @@ ready technology solutions.`,
 
     const skillCategories = [
       {
-        name: "Programming Languages",
-        icon: "M17.657 18.657A8 8 0 016.343 7.343S7 9 9 10c0-2 .5-5 2.986-7C14 5 16.09 5.777 17.656 7.343A7.975 7.975 0 0120 13a7.975 7.975 0 01-2.343 5.657z",
-        technologies: ["JavaScript", "Node.js", "Python", "PHP", "Ruby", "Java", "C#", "Swift"]
-      },
-      {
         name: "Frontend",
         icon: "M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z",
-        technologies: ["React", "Next.js", "Vue.js", "Nuxt.js", "Angular.js"]
+        technologies: ["React", "Next.js", "Vue", "TypeScript", "Flutter", "React Native"]
       },
       {
         name: "Backend",
         icon: "M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z",
-        technologies: ["Django", "Flask", "FastAPI", "Laravel", "Express.js"]
+        technologies: ["Python", "Django", "FastAPI", "Node.js", "Express.js", "Nest.js", "C#", "GraphQL API"]
       },
       {
         name: "AI / ML",
         icon: "M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z",
-        technologies: ["Pandas", "LangChain", "OpenAI", "Machine Learning", "NWEA", "Easybridge"]
+        technologies: ["BERT", "spaCy", "NLP", "Machine Learning", "AI Integration"]
       },
       {
         name: "Databases",
         icon: "M4 7v10c0 2.21 3.582 4 8 4s8-1.79 8-4V7M4 7c0 2.21 3.582 4 8 4s8-1.79 8-4M4 7c0-2.21 3.582-4 8-4s8 1.79 8 4m0 5c0 2.21-3.582 4-8 4s-8-1.79-8-4",
-        technologies: ["MySQL", "MongoDB", "PostgreSQL", "Neo4j", "Supabase"]
+        technologies: ["PostgreSQL", "MySQL", "MongoDB", "Redis", "Firebase", "Supabase", "SQLite"]
       },
       {
         name: "Cloud & DevOps",
         icon: "M3 15a4 4 0 004 4h9a5 5 0 10-.1-9.999 5.002 5.002 0 10-9.78 2.096A4.001 4.001 0 003 15z",
-        technologies: ["AWS", "Azure", "Docker", "Git"]
+        technologies: ["AWS", "Azure", "GCP", "Firebase", "Docker", "CI/CD", "Kubernetes", "Nginx", "Cloudflare"]
       }
     ];
 </script>

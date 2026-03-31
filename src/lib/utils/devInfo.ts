@@ -11,19 +11,16 @@ export interface Developer {
 }
 
 export const johncarlo: Developer = {
-  // name: "Jean Patrick",
-  // role: "Software Developer",
-  // company: "",
-  about: "Hey, I'm Jean Patrick, a Software Developer with a keen interest in building scalable \nand secure applications. Always eager to learn and experiment with new technologies.",
-  code: ["Golang", "Svelte", "Angular", "TS", "JS", "Java", "Swift", "Rust", "Python"],
+  about: "Hey, I'm Jean Patrick, a Filipino AI/ML Engineer and Full-Stack Developer with over 8 years of experience \nworking on production-grade AI systems, enterprise web apps, and mobile applications. \nI specialize in machine learning, React/Next.js, Node.js, Python Frameworks, and cloud technologies.",
+  code: ["Python", "TypeScript", "JavaScript", "C#", "Node.js"],
   interests: [
+    "AI & Machine Learning",
     "Full-Stack Development",
-    "Cybersecurity",
-    "DevOps",
-    "Writing Blogs",
-    "Experimenting with New Technologies",
+    "Mobile Development",
+    "Cloud & DevOps",
+    "Web Design",
   ],
-  operatingSystems: ["macOS 15 Sequoia", "Debian Bookworm", "Ubuntu"],
-  toolsUsed: ["Docker", "Git", "Parallels", "Termius", "Postman"],
-  ides: ["Cursor", "Zed", "VSCode", "Android Studio", "Xcode", "Neovim"],
+  operatingSystems: ["macOS", "Ubuntu", "Windows"],
+  toolsUsed: ["Docker", "Git", "Kubernetes", "Nginx", "Postman", "CI/CD"],
+  ides: ["VSCode", "Cursor", "Android Studio", "Xcode"],
 };
