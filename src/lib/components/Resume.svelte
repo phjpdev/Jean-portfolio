@@ -5,12 +5,12 @@
   export let startDrag: (e: MouseEvent, id: string, action: 'move' | 'resize') => void;
   export let window: wType;
 
-  const resumePath = '/John-CV.pdf';
+  const resumePath = '/jean-CV.pdf';
 
   function downloadResume() {
     const link = document.createElement('a');
     link.href = resumePath;
-    link.download = 'John-CV.pdf';
+    link.download = 'jean-CV.pdf';
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
