@@ -43,7 +43,7 @@
 
 <div 
   class="fixed inset-0 z-[9998] flex items-center justify-center"
-  style="background-image: url('/lock-back.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat;"
+  style="background-image: url('/lock-back.png'); background-size: cover; background-position: center; background-repeat: no-repeat;"
   transition:fade={{ duration: 500 }}
 >
   <!-- Background Overlay for better text readability -->
