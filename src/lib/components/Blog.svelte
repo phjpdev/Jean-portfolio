@@ -23,9 +23,10 @@
 I specialize in machine learning, React/Next.js, Node.js, Python Frameworks, and cloud technologies such as AWS, Azure, Cloudflare and GCP.`,
       projectsComplete: 86,
       socialLinks: {
-        twitter: "https://x.com/Johncarlocos",
-        facebook: "https://www.facebook.com/profile.php?id=61583826572375",
-        telegram: "https://t.me/johncarlo2741"
+        twitter: "https://x.com/jeanpatrickrey",
+        facebook: "https://www.facebook.com/profile.php?id=61584560752866",
+        telegram: "https://t.me/jeanpatrickreyes",
+        linkedin: "https://www.linkedin.com/in/jean-patrick-reyes-63089a3a4/"
       }
     };
 

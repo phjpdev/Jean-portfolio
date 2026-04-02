@@ -268,7 +268,7 @@
 
         <!-- Telegram -->
         <a 
-          href="https://t.me/johncarlo2741" 
+          href="https://t.me/jeanpatrickreyes" 
           target="_blank" 
           rel="noopener noreferrer" 
           class="w-10 h-10 rounded-full bg-gray-500 hover:bg-gray-600 flex items-center justify-center transition-colors duration-200 group"
@@ -281,7 +281,7 @@
 
         <!-- LinkedIn -->
         <a 
-          href="https://www.linkedin.com" 
+          href="https://www.linkedin.com/in/jean-patrick-reyes-63089a3a4/" 
           target="_blank" 
           rel="noopener noreferrer" 
           class="w-10 h-10 rounded-full bg-gray-500 hover:bg-gray-600 flex items-center justify-center transition-colors duration-200 group"
@@ -294,7 +294,7 @@
 
         <!-- Twitter/X -->
         <a 
-          href="https://x.com/Johncarlocos" 
+          href="https://x.com/jeanpatrickrey" 
           target="_blank" 
           rel="noopener noreferrer" 
           class="w-10 h-10 rounded-full bg-gray-500 hover:bg-gray-600 flex items-center justify-center transition-colors duration-200 group"
@@ -307,7 +307,7 @@
 
         <!-- Facebook -->
         <a 
-          href="https://www.facebook.com/profile.php?id=61583826572375" 
+          href="https://www.facebook.com/profile.php?id=61584560752866" 
           target="_blank" 
           rel="noopener noreferrer" 
           class="w-10 h-10 rounded-full bg-gray-500 hover:bg-gray-600 flex items-center justify-center transition-colors duration-200 group"
